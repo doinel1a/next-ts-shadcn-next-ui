@@ -13,7 +13,7 @@
   },
   "scripts": {
     "postinstall": "husky & playwright install",
-    "dev": "next dev",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "preview": "next start",
     "typecheck": "tsc --noEmit",
