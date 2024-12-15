@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doinel1a/next-ts-shadcn-ui"
+    "url": "https://github.com/doinel1a/next-ts-shadcn-next-ui"
   },
   "scripts": {
     "postinstall": "husky & playwright install",
