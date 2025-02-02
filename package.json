@@ -24,10 +24,10 @@
     "test:ui": "playwright test --ui"
   },
   "dependencies": {
-    "@nextui-org/button": "^2.2.9",
-    "@nextui-org/dropdown": "^2.3.9",
-    "@nextui-org/system": "^2.4.6",
-    "@nextui-org/theme": "^2.4.5",
+    "@heroui/button": "^2.2.9",
+    "@heroui/dropdown": "^2.3.9",
+    "@heroui/system": "^2.4.6",
+    "@heroui/theme": "^2.4.5",
     "@radix-ui/react-dropdown-menu": "^2.1.5",
     "@radix-ui/react-slot": "^1.1.1",
     "@t3-oss/env-nextjs": "^0.12.0",
